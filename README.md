@@ -21,3 +21,19 @@ Personal Finance Manager is a Python application developed using Tkinter, a stan
    ```bash
    git clone https://github.com/your_username/personal-finance-manager.git
 
+
+## Usage
+
+1. Upon launching the application, you will be greeted with the main window of the Personal Finance Manager.
+2. You can add income by clicking on the "Add Income" button and entering the required details.
+3. Similarly, you can add expenses by clicking on the "Add Expense" button and providing the necessary information.
+4. You can view your transaction history by clicking on the "View Transactions" button.
+5. To view transactions for today, click on the "View Today's Transactions" button.
+6. To view transactions for this week, click on the "View This Week's Transactions" button.
+7. To view transactions for this month, click on the "View This Month's Transactions" button.
+8. You can calculate your current balance by clicking on the "Calculate Balance" button.
+
+
+
+   
+
